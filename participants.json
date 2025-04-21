@@ -8,5 +8,15 @@
         "fullName": "Nguyễn Thị B",
         "phoneNumber": "0354474474",
         "luckyNumber": 16
-    }
+    },
+    {
+        "fullName": "Phạm Hồng Mỹ",
+        "phoneNumber": "0848612712",
+        "luckyNumber": 17
+    },
+    {
+        "fullName": "Dương Thị Hằng",
+        "phoneNumber": "0373078206",
+        "luckyNumber": 20
+    },
 ]
